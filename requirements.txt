@@ -1,0 +1,4 @@
+fastapi
+pylint
+uvicorn
+pandas
