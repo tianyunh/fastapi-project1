@@ -2,3 +2,5 @@ fastapi
 pylint
 uvicorn
 pandas
+pytest
+asyncio
